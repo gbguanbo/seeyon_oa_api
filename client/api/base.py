@@ -2,7 +2,7 @@
 
 
 class BaseOAAPI:
-    """WeChat API base class"""
+
 
     def __init__(self, client=None):
         self._client = client
